@@ -49,6 +49,7 @@ A coluna `DIA` teve uma influência significativa (94.12%) na previsão da quant
 Utilizamos o modelo treinado para realizar previsões de estoque. As previsões foram feitas para diferentes cenários, incluindo variação de dias e promoções. A maior variação ocorreu quando a promoção foi alterada, indicando que a variável de promoção tem um impacto significativo na previsão do estoque para esse produto.
 
 
-## 🤔 Dúvidas?
-
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+## 📚 Referências
+- [Documentação do AWS SageMaker Canvas](https://docs.aws.amazon.com/sagemaker/latest/dg/canvas.html)
+- [Repositório Base da DIO](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque)
+- [AWS Cloud Quickstart](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque)
